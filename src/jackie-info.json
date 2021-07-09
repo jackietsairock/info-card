@@ -1,0 +1,60 @@
+{
+    "personal-info": {
+        "ch-name": "蔡政憲",
+        "en-name": "Jackie",
+        "profession": "平面設計、前端工程師、PHP程式設計",
+        "description": "喜歡健身、聽音樂、攝影、影像合成、網頁設計、程式設計",
+        "web": "https://jackie.com.tw",
+        "fb": "https://www.facebook.com/jackietsai.design",
+        "email": "mailto:jackietsai.design@gmail.com",
+        "line": "https://lin.ee/nmavV71"
+    },
+    "photograph":{
+        "skill-ch-name":"影像合成",
+        "skill-en-name":"Photograph",
+        "skill-description":"使用Photoshop去創作自己的想法及理念，部分作品也會搭配Illustrator來設計。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=2&pageNameCh=%E5%BD%B1%E5%83%8F%E5%90%88%E6%88%90&pageNameEn=Photograph&categoryType=2"
+    },
+    "logo":{
+        "skill-ch-name":"LOGO設計",
+        "skill-en-name":"LOGO Design",
+        "skill-description":"使用Illustrator設計。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=3&pageNameCh=LOGO%E8%A8%AD%E8%A8%88&pageNameEn=LOGO&categoryType=2"
+    },
+    "name-card":{
+        "skill-ch-name":"名片設計",
+        "skill-en-name":"Name Card Design",
+        "skill-description":"使用Illustrator+Phtoshop設計。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=5&pageNameCh=%E5%90%8D%E7%89%87%E8%A8%AD%E8%A8%88&pageNameEn=Name%20Card&categoryType=2"
+    },
+    "graphic-design":{
+        "skill-ch-name":"平面設計",
+        "skill-en-name":"Graphic Design",
+        "skill-description":"使用Illustrator+Phtoshop設計。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=6&pageNameCh=%E5%B9%B3%E9%9D%A2%E7%BE%8E%E7%B7%A8&pageNameEn=Graphic&categoryType=2"
+    },
+    "web-design":{
+        "skill-ch-name":"網站設計",
+        "skill-en-name":"Web Design",
+        "skill-description":"html + css + boostrap + jquery + PHP製作的網站，有些是利用Wordpress製作的購物網。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=7&pageNameCh=%E7%B6%B2%E7%AB%99%E8%A8%AD%E8%A8%88&pageNameEn=Web%20Design&categoryType=3"
+    },
+    "landing-page":{
+        "skill-ch-name":"一頁式網頁",
+        "skill-en-name":"Landing Page",
+        "skill-description":"一頁式網頁設計，常用在宣傳或是單項商品展示又或是活動訊息頁上。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=8&pageNameCh=%E8%90%BD%E5%9C%B0%E9%A0%81&pageNameEn=Landing%20Page&categoryType=3"
+    },
+    "front-end":{
+        "skill-ch-name":"網頁前端",
+        "skill-en-name":"front-end Design",
+        "skill-description":"使用Javacript、Jquery、GSAP，做一些前端小遊戲及小遊戲活動頁。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=9&pageNameCh=%E7%B6%B2%E9%A0%81%E5%89%8D%E7%AB%AF&pageNameEn=Front-end&categoryType=3"
+    },
+    "php":{
+        "skill-ch-name":"後端PHP",
+        "skill-en-name":"PHP Project",
+        "skill-description":"使用Javacript + Jquery + GSAP + PHP，做的一些含後端PHP的專案。",
+        "link":"https://ok.jackie.com.tw/product.php?category2=10&pageNameCh=%E5%BE%8C%E7%AB%AFPHP&pageNameEn=php&categoryType=3"
+    }
+}

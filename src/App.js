@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import { Container, Row, Col } from "reactstrap";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Card from "./Card";
+import Presonal from "./Personal";
+import jackieInfo from "./jackie-info.json";
+
+class App extends Component {
+  render() {
+    return (
+      <Container>
+        <Row>
+          <Col xs="12" sm="6" md="6" lg="3" className="p-3">
+            <Presonal data1={jackieInfo} />
+          </Col>
+          <Col xs="12" sm="6" md="6" lg="3" className="p-3">
+            <Card data2={jackieInfo}></Card>
+          </Col>
+        </Row>
+      </Container>
+    );
+  }
 }
 
 export default App;
